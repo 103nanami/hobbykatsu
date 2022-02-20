@@ -1,24 +1,36 @@
-# README
+# ホビ活
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+新しい趣味と出会う”ホビ活”。趣味を始める入門セット、体験セットを購入することができ、サイト利用者は気軽に様々な趣味を始めることができます。
+売り手はホビ活セットの販売、ユーザー側はホビ活セットを購入し、また同じ趣味仲間同士とコミュニケーションをとることができます。
 
-Things you may want to cover:
+### サイトテーマ
+趣味をはじめる入門セット、体験セットを購入できるサービス。
 
-* Ruby version
+### テーマを選んだ理由
+在宅時間が増えた昨今、家で気軽に楽しむことができる趣味は需要があるのではないかと考えました。
+また、働き方改革が進み、自分の時間を大切にする意識が強くなった今の時代、仕事以外の時間を充実させたい
+と考える人々の需要を考え、難しい準備などがなくてもセットを購入するだけで趣味が始められる、
+自分が今まで知らなかった趣味を体験できる、そして同じ趣味を楽しむ人々と交流することができるサービスが
+あれば、人々が気軽に趣味を始められると思い、選びました。
 
-* System dependencies
+### ターゲットユーザ
+20~30代男女。スマホアプリによくアクセスするユーザー層を想定。
 
-* Configuration
+### 主な利用シーン
+仕事の休み時間や、家時間での利用。
+趣味探しの際、趣味仲間とのコミュニケーションの際に利用。
 
-* Database creation
+## 設計書
 
-* Database initialization
+## チャレンジ要素一覧
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Deployment instructions
-
-* ...
+## 使用素材
